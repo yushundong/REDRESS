@@ -20,7 +20,11 @@ python xxx_ERR.py
 ```
 
 ## Log example for node classification
+
+```
 python REDRESS_feature_NDCG.py
+```
+Log example:
 ```
 ACM
 Using ACM dataset
@@ -375,7 +379,10 @@ Process finished with exit code 0
 ```
 
 ## Log example for link prediction
+```
 python gcn_feature_NDCG.py
+```
+Log example:
 ```
 BlogCatalog
 Using BlogCatalog dataset
