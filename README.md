@@ -1,6 +1,18 @@
 # REDRESS
 Open-source code for ''Individual Fairness for Graph Neural Networks: A Ranking based Approach''.
 
+## Citation
+
+If you find it useful, please cite our paper. Thank you!
+
+@inproceedings{dong2021individual,
+  title={Individual fairness for graph neural networks: A ranking based approach},
+  author={Dong, Yushun and Kang, Jian and Tong, Hanghang and Li, Jundong},
+  booktitle={Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery \& Data Mining},
+  pages={300--310},
+  year={2021}
+}
+
 ## Environment
 Experiments are carried out on a Titan RTX with Cuda 10.1. 
 
