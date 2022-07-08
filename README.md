@@ -6,13 +6,12 @@ Open-source code for ''Individual Fairness for Graph Neural Networks: A Ranking 
 If you find it useful, please cite our paper. Thank you!
 
 ```
-@inproceedings{
-dai2022graphaugmented,
-title={Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series},
-author={Enyan Dai and Jie Chen},
-booktitle={International Conference on Learning Representations},
-year={2022},
-url={https://openreview.net/forum?id=45L_dgP48Vd}
+@inproceedings{dong2021individual,
+  title={Individual fairness for graph neural networks: A ranking based approach},
+  author={Dong, Yushun and Kang, Jian and Tong, Hanghang and Li, Jundong},
+  booktitle={Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery \& Data Mining},
+  pages={300--310},
+  year={2021}
 }
 ```
 
